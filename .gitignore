@@ -5,3 +5,4 @@ __pycache__/
 *.png
 *.pdf
 phisinglink_livedata.txt
+.DS_Store
